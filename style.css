@@ -14,8 +14,12 @@ body {
 .nav-links{
     display:flex;
     list-style: none;
+    align-items: center;
 }
 
 .nav-item {
     padding: 10px;
+}
+.cta {
+    padding: 5px;
 }
