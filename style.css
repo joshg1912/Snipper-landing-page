@@ -1,0 +1,21 @@
+body {
+    background-image: url("Assets/Background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.right {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    top: -3em;
+    right: -3.7em;
+}
+
+.left {
+    display: flex;
+    position: relative;
+    list-style: none;
+}
