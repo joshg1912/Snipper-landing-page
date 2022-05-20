@@ -36,7 +36,9 @@
     width: 100%;
 }
 
-.container {
+.info-container {
     display: flex;
-    justify-content: flex-end;
+    border: 2px solid red;
+    align-items: center;
+    justify-content: center;
 }
