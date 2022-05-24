@@ -38,7 +38,12 @@
 
 .info-container {
     display: flex;
-    border: 2px solid red;
     align-items: center;
     justify-content: center;
+}
+
+.main-info-container {
+    padding-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
